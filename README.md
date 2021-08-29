@@ -1,2 +1,2 @@
-# coursera-teat
+# coursera-test
 coursera test repository
